@@ -1,0 +1,22 @@
+body {background-color:#283548;}
+#keypressed {
+    background-color:#e2d453 ;
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 10px; 
+
+}
+#keycode{
+    background-color: #377d8a;
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 10px; 
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
